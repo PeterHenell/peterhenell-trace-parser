@@ -1,0 +1,1 @@
+A CLR assembly to help parsing traces, especially traces from hibernate
